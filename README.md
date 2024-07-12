@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcio Gomes 
 
 - 👀 I’m interested in ...
-  - Back-end development
+  - Natural Language Processing
   - Machine Learning
   - Data Science
   - Node.js applications
